@@ -1,4 +1,4 @@
-#assigment operators "=, +=, -=, *=, /=, //=, %=, **="
+#assignment operators "=, +=, -=, *=, /=, //=, %=, **="
 #arithmetic operators "+, -, *, /, //, %, **"
 #comparison operators "==, !=, >, <, >=, <=, is, is not"
 #logical operators "and, or, not"
@@ -21,7 +21,7 @@ print(a % b)  # modulus
 print(a ** b)  # exponentiation
 
 
-# assigment operators
+# assignment operators
 print("\nAssignment Operators")
  
 
